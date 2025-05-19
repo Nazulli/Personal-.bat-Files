@@ -124,7 +124,7 @@ echo	You were made for loving me
 timeout /t 2 >nul
 echo	And I can't get enough of you, baby
 timeout /t 2 >nul
-echo	Can you get enough if me?
+echo	Can you get enough of me?
 timeout /t 3 >nul
 
 
@@ -132,11 +132,17 @@ echo.
 echo.
 echo.
 
+echo KISS
+echo I Was Made for Lovin You 
+echo.
+echo Rendered all within cmd!
 
-timeout /t 2 >nul
+timeout /t 5 >nul
 color B3
-timeout /t 1 >nul
-echo That's all. Goodbye.
+timeout /t 2 >nul
+echo.
+echo.
+echo That is all. Goodbye.
 timeout /t 6
 
 
