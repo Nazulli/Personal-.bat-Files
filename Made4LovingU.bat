@@ -2,7 +2,7 @@
 
 color 40
 timeout /t 2 >nul
-echo You are loved.
+echo  You are loved.
 
 echo.
 echo.
