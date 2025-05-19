@@ -1,8 +1,14 @@
 @echo off
 
+title What's this?
+color A2
+
+timeout /t 2 >nul
+
 color 40
 timeout /t 2 >nul
 echo  You are loved.
+timeout /t 2 >nul
 
 echo.
 echo.
@@ -127,7 +133,9 @@ echo.
 echo.
 
 
-timeout /t 6 >nul
+timeout /t 2 >nul
+color B3
+timeout /t 1 >nul
 echo That's all. Goodbye.
 timeout /t 6
 
